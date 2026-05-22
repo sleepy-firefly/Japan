@@ -1,4 +1,4 @@
-**Required Documents**
+﻿**Required Documents**
 
 * Valid passport
 * No visa needed up to 90 days of stay

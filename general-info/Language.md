@@ -1,5 +1,5 @@
-**Language**
+﻿**Language**
 
 * Hiragana
 
-![Hiragana](../images/hiragana.jpg)
+<img src="../images/hiragana.jpg" alt="Hiragana" style="width: 80%; height: auto;" />

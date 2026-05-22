@@ -1,1 +1,0 @@
-District for electronic and otaku goods

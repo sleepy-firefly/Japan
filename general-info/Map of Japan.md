@@ -1,3 +1,3 @@
-**Map of Japan**
+﻿**Map of Japan**
 
-![Map of Japan](../images/japan_map.jpg)
+<img src="../images/japan_map.jpg" alt="Map of Japan" style="width: 80%; height: auto;" />
