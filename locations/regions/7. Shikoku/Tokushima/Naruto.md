@@ -1,10 +1,10 @@
 **Naruto**
 
-<img src="../../../images/Naruto_1.jpg" alt="Naruto location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Naruto_2.jpg" alt="Naruto location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Naruto_3.jpg" alt="Naruto location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Naruto is known for tidal whirlpools in the strait and bridge viewpoints.
 
@@ -24,4 +24,4 @@ Naruto is known for tidal whirlpools in the strait and bridge viewpoints.
 - Spring and autumn for sightseeing comfort.
 - Check daily tide timings for strongest whirlpools.
 
-<img src="../../../../../images/naruto_1.jpg" alt="Naruto" style="width: 80%; height: auto;" />
+

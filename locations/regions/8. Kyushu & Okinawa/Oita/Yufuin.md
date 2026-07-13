@@ -1,10 +1,10 @@
 **Yufuin**
 
-<img src="../../../images/Yufuin_1.jpg" alt="Yufuin location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Yufuin_2.jpg" alt="Yufuin location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Yufuin_3.jpg" alt="Yufuin location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Yufuin is a scenic onsen town with lake views, boutique streets, and mountain backdrops.
 
@@ -24,4 +24,4 @@ Yufuin is a scenic onsen town with lake views, boutique streets, and mountain ba
 - Spring and autumn for scenery.
 - Winter for quiet onsen stays.
 
-<img src="../../../../../images/yufuin_1.jpg" alt="Yufuin" style="width: 80%; height: auto;" />
+

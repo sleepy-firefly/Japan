@@ -1,10 +1,10 @@
 **Kagoshima City**
 
-<img src="../../../images/Kagoshima_City_1.jpg" alt="Kagoshima_City location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kagoshima_City_2.jpg" alt="Kagoshima_City location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kagoshima_City_3.jpg" alt="Kagoshima_City location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Kagoshima City offers bayfront views, volcanic scenery, and strong local food culture.
 
@@ -23,4 +23,4 @@ Kagoshima City offers bayfront views, volcanic scenery, and strong local food cu
 
 - Spring and autumn for city and bay walks.
 
-<img src="../../../../../images/kagoshima_city_1.jpg" alt="Kagoshima City" style="width: 80%; height: auto;" />
+

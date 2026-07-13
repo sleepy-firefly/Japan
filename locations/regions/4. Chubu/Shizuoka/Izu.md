@@ -1,10 +1,10 @@
 **Izu Peninsula**
 
-<img src="../../../images/Izu_1.jpg" alt="Izu location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Izu_2.jpg" alt="Izu location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Izu_3.jpg" alt="Izu location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Izu offers coastlines, onsen towns, and scenic train/bus routes with ocean views.
 
@@ -24,4 +24,4 @@ Izu offers coastlines, onsen towns, and scenic train/bus routes with ocean views
 - Spring and autumn for mixed outdoor sightseeing.
 - Summer for beaches.
 
-<img src="../../../../../images/izu_1.jpg" alt="Izu" style="width: 80%; height: auto;" />
+

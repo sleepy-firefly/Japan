@@ -1,10 +1,10 @@
 **Iwakuni**
 
-<img src="../../../images/Iwakuni_1.jpg" alt="Iwakuni location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Iwakuni_2.jpg" alt="Iwakuni location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Iwakuni_3.jpg" alt="Iwakuni location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Iwakuni is famous for Kintai Bridge and samurai-era riverside scenery.
 
@@ -23,4 +23,4 @@ Iwakuni is famous for Kintai Bridge and samurai-era riverside scenery.
 
 - Spring blossoms and autumn foliage are both excellent.
 
-<img src="../../../../../images/iwakuni_1.jpg" alt="Iwakuni" style="width: 80%; height: auto;" />
+

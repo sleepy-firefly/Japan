@@ -1,10 +1,10 @@
 **Kanazawa**
 
-<img src="../../../images/Kanazawa_1.jpg" alt="Kanazawa location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kanazawa_2.jpg" alt="Kanazawa location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kanazawa_3.jpg" alt="Kanazawa location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Kanazawa is a top culture destination with gardens, samurai/tea districts, and strong regional cuisine.
 
@@ -24,4 +24,4 @@ Kanazawa is a top culture destination with gardens, samurai/tea districts, and s
 
 - Spring and autumn for gardens and historic walks.
 
-<img src="../../../../../images/kanazawa_1.jpg" alt="Kanazawa" style="width: 80%; height: auto;" />
+

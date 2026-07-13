@@ -1,10 +1,10 @@
 **Kusatsu Onsen**
 
-<img src="../../../images/Kusatsu_1.jpg" alt="Kusatsu location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kusatsu_2.jpg" alt="Kusatsu location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kusatsu_3.jpg" alt="Kusatsu location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Kusatsu is one of Japan's most famous hot spring towns, known for strong sulfur waters and classic onsen streets.
 
@@ -29,4 +29,4 @@ Kusatsu is one of Japan's most famous hot spring towns, known for strong sulfur 
 - Winter for snowy onsen atmosphere.
 - Autumn for cool weather and foliage.
 
-<img src="../../../../../images/kusatsu_1.jpg" alt="Kusatsu" style="width: 80%; height: auto;" />
+

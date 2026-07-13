@@ -1,10 +1,10 @@
 **Daisetsuzan National Park**
 
-<img src="../../../images/Daisetsuzan_1.jpg" alt="Daisetsuzan location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Daisetsuzan_2.jpg" alt="Daisetsuzan location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Daisetsuzan_3.jpg" alt="Daisetsuzan location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Daisetsuzan is Hokkaido's largest national park, known for volcanic landscapes, ropeways, alpine hiking, and early autumn colors.
 
@@ -25,4 +25,4 @@ Daisetsuzan is Hokkaido's largest national park, known for volcanic landscapes, 
 - July-September for hiking.
 - September-October for some of Japan's earliest autumn foliage.
 
-<img src="../../../../../images/daisetsuzan_1.jpg" alt="Daisetsuzan" style="width: 80%; height: auto;" />
+

@@ -1,10 +1,10 @@
 **Ishigaki**
 
-<img src="../../../images/Ishigaki_1.jpg" alt="Ishigaki location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Ishigaki_2.jpg" alt="Ishigaki location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Ishigaki_3.jpg" alt="Ishigaki location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Ishigaki is a southern island destination known for beaches, snorkeling, and tropical scenery.
 
@@ -24,4 +24,4 @@ Ishigaki is a southern island destination known for beaches, snorkeling, and tro
 - April-October for beach conditions.
 - Shoulder months are often less humid.
 
-<img src="../../../../../images/ishigaki_1.jpg" alt="Ishigaki" style="width: 80%; height: auto;" />
+

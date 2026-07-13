@@ -12,4 +12,4 @@ The best-known viewing areas are around Asakusa and near Tokyo Skytree, where th
 
 <img src="../../images/sumida_river_fireworks_3.jpg" alt="Sumida River Fireworks Festival in Tokyo" style="width: 80%; height: auto;" />
 
-<img src="../../images/sumida_river_yukata_crowds.jpg" alt="Crowds in yukata at Sumida River fireworks" style="width: 80%; height: auto;" />
+

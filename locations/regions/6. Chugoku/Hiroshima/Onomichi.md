@@ -1,10 +1,10 @@
 **Onomichi**
 
-<img src="../../../images/Onomichi_1.jpg" alt="Onomichi location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Onomichi_2.jpg" alt="Onomichi location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Onomichi_3.jpg" alt="Onomichi location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Onomichi is a hillside port town; for temple-focused picks see the [Temple Index](../../../temples/Temple%20Index.md).
 
@@ -23,4 +23,4 @@ Onomichi is a hillside port town; for temple-focused picks see the [Temple Index
 
 - Spring and autumn for walking and cycling comfort.
 
-<img src="../../../../../images/onomichi_1.jpg" alt="Onomichi" style="width: 80%; height: auto;" />
+

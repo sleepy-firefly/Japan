@@ -6,7 +6,7 @@ This theme page points to the canonical museum guide to avoid duplicate planning
 
 &emsp;**Main Reference**
 
-- [Ghibli Museum (Mitaka, Tokyo)](../../../museums/Ghibli%20Museum.md)
+- [Ghibli Museum (Mitaka, Tokyo)](../../museums/Ghibli%20Museum.md)
 
 <img src="../../../images/mitaka_ghibli_museum_2.jpg" alt="Ghibli Museum interior" style="width: 80%; height: auto;" />
 

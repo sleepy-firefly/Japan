@@ -1,10 +1,10 @@
 **Shizuoka City**
 
-<img src="../../../images/Shizuoka_City_1.jpg" alt="Shizuoka_City location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Shizuoka_City_2.jpg" alt="Shizuoka_City location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Shizuoka_City_3.jpg" alt="Shizuoka_City location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Shizuoka City is a transit-friendly stop with tea culture, coastal views, and Mt. Fuji-side day trips.
 
@@ -24,4 +24,4 @@ Shizuoka City is a transit-friendly stop with tea culture, coastal views, and Mt
 
 - Spring and autumn for clear views and city walks.
 
-<img src="../../../../../images/shizuoka_city_1.jpg" alt="Shizuoka City" style="width: 80%; height: auto;" />
+

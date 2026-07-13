@@ -1,10 +1,10 @@
 **Kokusai Dori (Naha District)**
 
-<img src="../../../../../images/Kokusai_Dori_1.jpg" alt="Kokusai_Dori location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../../../images/Kokusai_Dori_2.jpg" alt="Kokusai_Dori location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../../../images/Kokusai_Dori_3.jpg" alt="Kokusai_Dori location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Kokusai Dori is Naha's main shopping and dining strip with lively evening atmosphere.
 
@@ -19,4 +19,4 @@ Kokusai Dori is Naha's main shopping and dining strip with lively evening atmosp
 - Year-round.
 - Evenings are busiest and most energetic.
 
-<img src="../../../../../../../images/kokusai_dori_1.jpg" alt="Kokusai Dori" style="width: 80%; height: auto;" />
+

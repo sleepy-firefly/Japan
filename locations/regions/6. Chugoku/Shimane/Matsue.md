@@ -1,10 +1,10 @@
 **Matsue**
 
-<img src="../../../images/Matsue_1.jpg" alt="Matsue location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Matsue_2.jpg" alt="Matsue location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Matsue_3.jpg" alt="Matsue location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Matsue is known for its castle, tea culture, and lakeside atmosphere.
 
@@ -23,4 +23,4 @@ Matsue is known for its castle, tea culture, and lakeside atmosphere.
 
 - Spring and autumn for castle and lakeside routes.
 
-<img src="../../../../../images/matsue_1.jpg" alt="Matsue" style="width: 80%; height: auto;" />
+

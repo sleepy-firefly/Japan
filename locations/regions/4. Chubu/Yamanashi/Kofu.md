@@ -1,10 +1,10 @@
 **Kofu**
 
-<img src="../../../images/Kofu_1.jpg" alt="Kofu location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kofu_2.jpg" alt="Kofu location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kofu_3.jpg" alt="Kofu location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Kofu is a regional city known for wine, fruit farms, and mountain views.
 
@@ -25,4 +25,4 @@ Kofu is a regional city known for wine, fruit farms, and mountain views.
 - Spring for blossoms and vineyards.
 - Autumn for harvest and clear weather.
 
-<img src="../../../../../images/kofu_1.jpg" alt="Kofu" style="width: 80%; height: auto;" />
+

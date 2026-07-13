@@ -1,10 +1,10 @@
 **Niseko**
 
-<img src="../../../images/Niseko_1.jpg" alt="Niseko location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Niseko_2.jpg" alt="Niseko location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Niseko_3.jpg" alt="Niseko location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Niseko is one of Japan's best-known mountain resort areas for powder snow, onsen, and summer outdoor activities.
 
@@ -25,4 +25,4 @@ Niseko is one of Japan's best-known mountain resort areas for powder snow, onsen
 - December-February for ski season.
 - June-September for hiking and cycling.
 
-<img src="../../../../../images/niseko_1.jpg" alt="Niseko" style="width: 80%; height: auto;" />
+

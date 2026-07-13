@@ -1,10 +1,10 @@
 **Itoshima**
 
-<img src="../../../images/Itoshima_1.jpg" alt="Itoshima location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Itoshima_2.jpg" alt="Itoshima location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Itoshima_3.jpg" alt="Itoshima location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Itoshima is a coastal area west of Fukuoka known for beaches, cafes, and sunset viewpoints.
 
@@ -23,4 +23,4 @@ Itoshima is a coastal area west of Fukuoka known for beaches, cafes, and sunset 
 
 - Spring to autumn for coastal sightseeing.
 
-<img src="../../../../../images/itoshima_1.jpg" alt="Itoshima" style="width: 80%; height: auto;" />
+

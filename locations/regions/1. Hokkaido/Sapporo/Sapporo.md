@@ -1,10 +1,10 @@
 **Sapporo**
 
-<img src="../../../images/Sapporo_1.jpg" alt="Sapporo location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Sapporo_2.jpg" alt="Sapporo location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Sapporo_3.jpg" alt="Sapporo location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Sapporo is Hokkaido's largest city, mixing winter events, food culture, parks, and easy day trips.
 
@@ -26,4 +26,4 @@ For full winter event details, see [Hokkaido Winter Festivals](../../../../event
 - February for snow festival period.
 - June-October for walking and day trips.
 
-<img src="../../../../../images/sapporo_1.jpg" alt="Sapporo" style="width: 80%; height: auto;" />
+

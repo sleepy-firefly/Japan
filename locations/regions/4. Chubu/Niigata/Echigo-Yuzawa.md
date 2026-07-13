@@ -1,10 +1,10 @@
 **Echigo-Yuzawa**
 
-<img src="../../../images/Echigo-Yuzawa_1.jpg" alt="Echigo-Yuzawa location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Echigo-Yuzawa_2.jpg" alt="Echigo-Yuzawa location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Echigo-Yuzawa_3.jpg" alt="Echigo-Yuzawa location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Echigo-Yuzawa is a major snow and onsen gateway with very easy Shinkansen access.
 
@@ -25,4 +25,4 @@ Echigo-Yuzawa is a major snow and onsen gateway with very easy Shinkansen access
 - December-March for snow season.
 - Green season for light mountain walks.
 
-<img src="../../../../../images/echigo_yuzawa_1.jpg" alt="Echigo-Yuzawa" style="width: 80%; height: auto;" />
+

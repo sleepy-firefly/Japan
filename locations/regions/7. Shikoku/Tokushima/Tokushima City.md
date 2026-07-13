@@ -1,10 +1,10 @@
 **Tokushima City**
 
-<img src="../../../images/Tokushima_City_1.jpg" alt="Tokushima_City location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Tokushima_City_2.jpg" alt="Tokushima_City location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Tokushima_City_3.jpg" alt="Tokushima_City location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Tokushima is the gateway to eastern Shikoku, known for Awa Odori dance culture and river-side city views.
 
@@ -32,4 +32,4 @@ Event guide: [Awa Odori Festival](../../../../events/festivals/Awa%20Odori%20Fes
 - August for Awa Odori Festival.
 - Spring and autumn for comfortable city walks.
 
-<img src="../../../../../images/tokushima_city_1.jpg" alt="Tokushima City" style="width: 80%; height: auto;" />
+

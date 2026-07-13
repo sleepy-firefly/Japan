@@ -1,10 +1,10 @@
 **Tokyo - Ikebukuro**
 
-<img src="../../images/Tokyo_-_Ikebukuro_1.jpg" alt="Tokyo_-_Ikebukuro 1" style="width: 80%; height: auto;" />
 
-<img src="../../images/Tokyo_-_Ikebukuro_2.jpg" alt="Tokyo_-_Ikebukuro 2" style="width: 80%; height: auto;" />
 
-<img src="../../images/Tokyo_-_Ikebukuro_3.jpg" alt="Tokyo_-_Ikebukuro 3" style="width: 80%; height: auto;" />
+
+
+
 
 Ikebukuro is a core anime and character-goods area, especially strong for shop density and fandom-focused floor guides.
 
@@ -44,4 +44,4 @@ Ikebukuro is a core anime and character-goods area, especially strong for shop d
 - [Tokyo - Nakano Broadway](Tokyo%20-%20Nakano%20Broadway.md)
 - [AnimeJapan](../../../events/otaku/AnimeJapan.md)
 
-<img src="../../../../images/tokyo_ikebukuro_1.jpg" alt="Tokyo - Ikebukuro" style="width: 80%; height: auto;" />
+

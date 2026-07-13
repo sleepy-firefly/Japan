@@ -1,10 +1,10 @@
 **Hiraizumi**
 
-<img src="../../../images/Hiraizumi_1.jpg" alt="Hiraizumi location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Hiraizumi_2.jpg" alt="Hiraizumi location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Hiraizumi_3.jpg" alt="Hiraizumi location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Hiraizumi is a UNESCO-listed historical area with major Buddhist heritage sites.
 
@@ -24,4 +24,4 @@ Hiraizumi is a UNESCO-listed historical area with major Buddhist heritage sites.
 
 - Spring and autumn for temple grounds and foliage.
 
-<img src="../../../../../images/hiraizumi_1.jpg" alt="Hiraizumi" style="width: 80%; height: auto;" />
+

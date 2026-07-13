@@ -1,10 +1,10 @@
 **Kamikochi**
 
-<img src="../../../images/Kamikochi_1.jpg" alt="Kamikochi location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kamikochi_2.jpg" alt="Kamikochi location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kamikochi_3.jpg" alt="Kamikochi location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Kamikochi is one of Japan's top alpine valley destinations for easy to moderate scenic hikes.
 
@@ -25,4 +25,4 @@ Kamikochi is one of Japan's top alpine valley destinations for easy to moderate 
 - June-October (closed in winter).
 - October for autumn colors.
 
-<img src="../../../../../images/kamikochi_1.jpg" alt="Kamikochi" style="width: 80%; height: auto;" />
+

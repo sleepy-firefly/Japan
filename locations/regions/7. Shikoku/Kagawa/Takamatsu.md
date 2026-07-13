@@ -1,10 +1,10 @@
 **Takamatsu**
 
-<img src="../../../images/Takamatsu_1.jpg" alt="Takamatsu location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Takamatsu_2.jpg" alt="Takamatsu location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Takamatsu_3.jpg" alt="Takamatsu location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Takamatsu is a practical Shikoku base with gardens, port access, and island connections.
 
@@ -24,4 +24,4 @@ Takamatsu is a practical Shikoku base with gardens, port access, and island conn
 
 - Spring and autumn for gardens and ferry day trips.
 
-<img src="../../../../../images/takamatsu_1.jpg" alt="Takamatsu" style="width: 80%; height: auto;" />
+

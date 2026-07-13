@@ -1,10 +1,10 @@
 **Omiya (Saitama City)**
 
-<img src="../../../images/Omiya_1.jpg" alt="Omiya location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Omiya_2.jpg" alt="Omiya location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Omiya_3.jpg" alt="Omiya location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Omiya is a practical city stop with rail museums and strong transport links; see [Railway Museum (Omiya)](../../../museums/Railway%20Museum%20(Omiya).md) for details.
 
@@ -28,4 +28,4 @@ Omiya is a practical city stop with rail museums and strong transport links; see
 
 - Year-round; spring and autumn are best for shrine/park walks.
 
-<img src="../../../../../images/omiya_1.jpg" alt="Omiya" style="width: 80%; height: auto;" />
+

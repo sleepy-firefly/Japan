@@ -1,10 +1,10 @@
 **Arima Onsen**
 
-<img src="../../../images/Arima_Onsen_1.jpg" alt="Arima_Onsen location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Arima_Onsen_2.jpg" alt="Arima_Onsen location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Arima_Onsen_3.jpg" alt="Arima_Onsen location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Arima Onsen is one of Kansai's best historic hot spring towns and an easy retreat from Kobe/Osaka.
 
@@ -24,4 +24,4 @@ Arima Onsen is one of Kansai's best historic hot spring towns and an easy retrea
 - Year-round for onsen.
 - Autumn and winter are especially atmospheric.
 
-<img src="../../../../../images/arima_onsen_1.jpg" alt="Arima Onsen" style="width: 80%; height: auto;" />
+

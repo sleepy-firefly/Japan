@@ -1,10 +1,10 @@
 **Ise**
 
-<img src="../../../images/Ise_1.jpg" alt="Ise location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Ise_2.jpg" alt="Ise location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Ise_3.jpg" alt="Ise location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Ise is one of Japan's most important spiritual destinations, centered on Ise Jingu and old pilgrimage streets.
 
@@ -23,4 +23,4 @@ Ise is one of Japan's most important spiritual destinations, centered on Ise Jin
 
 - Spring and autumn for shrine walks.
 
-<img src="../../../../../images/ise_1.jpg" alt="Ise" style="width: 80%; height: auto;" />
+

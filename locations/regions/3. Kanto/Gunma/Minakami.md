@@ -1,10 +1,10 @@
 **Minakami**
 
-<img src="../../../images/Minakami_1.jpg" alt="Minakami location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Minakami_2.jpg" alt="Minakami location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Minakami_3.jpg" alt="Minakami location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Minakami is an outdoor destination for rafting, hiking, ropeway views, and mountain hot springs.
 
@@ -30,4 +30,4 @@ Minakami is an outdoor destination for rafting, hiking, ropeway views, and mount
 - June-September for outdoor activities.
 - January-March for winter scenery and snow sports.
 
-<img src="../../../../../images/minakami_1.jpg" alt="Minakami" style="width: 80%; height: auto;" />
+

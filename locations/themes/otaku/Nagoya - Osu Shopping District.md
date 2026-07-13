@@ -1,10 +1,10 @@
 **Nagoya - Osu Shopping District**
 
-<img src="../../images/Nagoya_-_Osu_Shopping_District_1.jpg" alt="Nagoya_-_Osu_Shopping_District 1" style="width: 80%; height: auto;" />
 
-<img src="../../images/Nagoya_-_Osu_Shopping_District_2.jpg" alt="Nagoya_-_Osu_Shopping_District 2" style="width: 80%; height: auto;" />
 
-<img src="../../images/Nagoya_-_Osu_Shopping_District_3.jpg" alt="Nagoya_-_Osu_Shopping_District 3" style="width: 80%; height: auto;" />
+
+
+
 
 Osu is Nagoya's mixed culture district where anime, games, street food, and second-hand shops overlap in a compact area.
 
@@ -43,4 +43,4 @@ Osu is Nagoya's mixed culture district where anime, games, street food, and seco
 - [Tokyo - Akihabara](Tokyo%20-%20Akihabara.md)
 - [Osaka - Nipponbashi Den Den Town](Osaka%20-%20Nipponbashi%20Den%20Den%20Town.md)
 
-<img src="../../../../images/nagoya_osu_shopping_district_1.jpg" alt="Nagoya - Osu Shopping District" style="width: 80%; height: auto;" />
+

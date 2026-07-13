@@ -1,10 +1,10 @@
 **Biei**
 
-<img src="../../../images/Biei_1.jpg" alt="Biei location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Biei_2.jpg" alt="Biei location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Biei_3.jpg" alt="Biei location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Biei is famous for rolling rural landscapes, scenic roads, and iconic blue-water viewpoints.
 
@@ -25,4 +25,4 @@ Biei is famous for rolling rural landscapes, scenic roads, and iconic blue-water
 - July-August for flower and field scenery.
 - October for autumn colors.
 
-<img src="../../../../../images/biei_1.jpg" alt="Biei" style="width: 80%; height: auto;" />
+

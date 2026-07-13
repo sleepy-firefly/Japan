@@ -1,10 +1,10 @@
 **Shimanto**
 
-<img src="../../../images/Shimanto_1.jpg" alt="Shimanto location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Shimanto_2.jpg" alt="Shimanto location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Shimanto_3.jpg" alt="Shimanto location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Shimanto is known for clear rivers, cycling routes, and rural scenery in southwestern Kochi.
 
@@ -24,4 +24,4 @@ Shimanto is known for clear rivers, cycling routes, and rural scenery in southwe
 - May-October for river activities.
 - Autumn for cooler cycling weather.
 
-<img src="../../../../../images/shimanto_1.jpg" alt="Shimanto" style="width: 80%; height: auto;" />
+

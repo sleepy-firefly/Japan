@@ -1,10 +1,10 @@
 **Kotohira**
 
-<img src="../../../images/Kotohira_1.jpg" alt="Kotohira location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kotohira_2.jpg" alt="Kotohira location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kotohira_3.jpg" alt="Kotohira location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Kotohira is known for Kompira-san shrine and long stone stair pilgrim routes.
 
@@ -23,4 +23,4 @@ Kotohira is known for Kompira-san shrine and long stone stair pilgrim routes.
 
 - Spring and autumn for stair climbing comfort.
 
-<img src="../../../../../images/kotohira_1.jpg" alt="Kotohira" style="width: 80%; height: auto;" />
+

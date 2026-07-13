@@ -1,17 +1,17 @@
 **Fukui City**
 
-<img src="../../../images/Fukui_City_1.jpg" alt="Fukui_City location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Fukui_City_2.jpg" alt="Fukui_City location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Fukui_City_3.jpg" alt="Fukui_City location 3" style="width: 80%; height: auto;" />
 
-Fukui City is a practical base for cultural day trips; for temple details see [Eiheiji](../../../../temples-shrines/Eiheiji.md).
+
+
+
+Fukui City is a practical base for cultural day trips; for temple details see [Eiheiji](../../../temples-shrines/Eiheiji.md).
 
 &emsp;&emsp;**Top places**
 
 - Fukui Castle ruins area
-- Dinosaur Museum day trip (see [Fukui Prefectural Dinosaur Museum](../../../../museums/Fukui%20Prefectural%20Dinosaur%20Museum.md))
+- Dinosaur Museum day trip (see [Fukui Prefectural Dinosaur Museum](../../../museums/Fukui%20Prefectural%20Dinosaur%20Museum.md))
 - Local food streets
 
 &emsp;&emsp;**Logistics**
@@ -23,4 +23,4 @@ Fukui City is a practical base for cultural day trips; for temple details see [E
 
 - Spring and autumn for mixed city/day-trip routes.
 
-<img src="../../../../../images/fukui_city_1.jpg" alt="Fukui City" style="width: 80%; height: auto;" />
+

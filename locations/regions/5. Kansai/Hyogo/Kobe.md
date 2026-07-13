@@ -1,10 +1,10 @@
 **Kobe**
 
-<img src="../../../images/Kobe_1.jpg" alt="Kobe location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kobe_2.jpg" alt="Kobe location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kobe_3.jpg" alt="Kobe location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Kobe is a port city with hillside views, Chinatown, and stylish waterfront districts.
 
@@ -24,4 +24,4 @@ Kobe is a port city with hillside views, Chinatown, and stylish waterfront distr
 
 - Spring and autumn for city and mountain-side walks.
 
-<img src="../../../../../images/kobe_1.jpg" alt="Kobe" style="width: 80%; height: auto;" />
+

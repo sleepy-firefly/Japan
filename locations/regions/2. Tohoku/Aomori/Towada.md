@@ -1,10 +1,10 @@
 **Sakura Yabusame Festival**
 
-<img src="../../../images/Towada_1.jpg" alt="Towada location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Towada_2.jpg" alt="Towada location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Towada_3.jpg" alt="Towada location 3" style="width: 80%; height: auto;" />
+
+
+
 
 In April features all female horseback archers. Detailed event page: [Sakura Yabusame Festival](../../../../events/festivals/Sakura%20Yabusame%20Festival.md).
 

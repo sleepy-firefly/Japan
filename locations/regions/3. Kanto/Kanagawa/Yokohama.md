@@ -1,10 +1,10 @@
 **Yokohama**
 
-<img src="../../../images/Yokohama_1.jpg" alt="Yokohama location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Yokohama_2.jpg" alt="Yokohama location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Yokohama_3.jpg" alt="Yokohama location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Yokohama is a major port city with waterfront parks, Chinatown, museums, and modern skyline views.
 
@@ -29,4 +29,4 @@ Yokohama is a major port city with waterfront parks, Chinatown, museums, and mod
 
 - April-May and October-November for pleasant bay walks.
 
-<img src="../../../../../images/yokohama_1.jpg" alt="Yokohama" style="width: 80%; height: auto;" />
+

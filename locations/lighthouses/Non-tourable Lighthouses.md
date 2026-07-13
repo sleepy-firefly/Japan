@@ -1,4 +1,4 @@
-﻿**Non-Tourable Lighthouses of Japan**
+**Non-Tourable Lighthouses of Japan**
 
 This page collects Japan's exterior-only lighthouses in one place. Each entry includes a single photo reference and a short location/history summary.
 
@@ -180,7 +180,7 @@ Ogijima Lighthouse is an exterior-viewing lighthouse in Kagawa Prefecture. It re
 
 Iojimazaki Lighthouse is an exterior-viewing lighthouse in Kagoshima Prefecture. It remains a useful coastal marker and scenic stop even though tower entry is not available, and it is often visited as part of a broader headland or island route.
 
-<img src="../../images/iojimazaki_lighthouse_1.jpg" alt="Iojimazaki Lighthouse" style="width: 60%; height: auto;" />
+
 
 ### Satamisaki Lighthouse (佐多岬灯台)
 

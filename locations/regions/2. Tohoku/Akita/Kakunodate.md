@@ -1,10 +1,10 @@
 **Kakunodate**
 
-<img src="../../../images/Kakunodate_1.jpg" alt="Kakunodate location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kakunodate_2.jpg" alt="Kakunodate location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kakunodate_3.jpg" alt="Kakunodate location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Kakunodate is a preserved samurai district known for historic residences and tree-lined streets.
 
@@ -24,4 +24,4 @@ Kakunodate is a preserved samurai district known for historic residences and tre
 - Late April to early May for cherry blossoms.
 - Autumn for foliage and fewer crowds.
 
-<img src="../../../../../images/kakunodate_1.jpg" alt="Kakunodate" style="width: 80%; height: auto;" />
+

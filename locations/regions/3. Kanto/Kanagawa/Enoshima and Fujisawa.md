@@ -1,10 +1,10 @@
 **Enoshima and Fujisawa**
 
-<img src="../../../images/Enoshima_and_Fujisawa_1.jpg" alt="Enoshima_and_Fujisawa location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Enoshima_and_Fujisawa_2.jpg" alt="Enoshima_and_Fujisawa location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Enoshima_and_Fujisawa_3.jpg" alt="Enoshima_and_Fujisawa location 3" style="width: 80%; height: auto;" />
+
+
+
 
 This coastal area is great for sea views, island walks, shrines, and relaxed beach-town atmosphere.
 
@@ -31,4 +31,4 @@ This coastal area is great for sea views, island walks, shrines, and relaxed bea
 
 - May-June and September-October for milder weather.
 
-<img src="../../../../../images/enoshima_and_fujisawa_1.jpg" alt="Enoshima and Fujisawa" style="width: 80%; height: auto;" />
+

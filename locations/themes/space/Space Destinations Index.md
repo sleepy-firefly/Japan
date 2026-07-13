@@ -1,10 +1,10 @@
 **Space Destinations in Japan**
 
-<img src="../../images/Space_Destinations_Index_1.jpg" alt="Space_Destinations_Index 1" style="width: 80%; height: auto;" />
 
-<img src="../../images/Space_Destinations_Index_2.jpg" alt="Space_Destinations_Index 2" style="width: 80%; height: auto;" />
 
-<img src="../../images/Space_Destinations_Index_3.jpg" alt="Space_Destinations_Index 3" style="width: 80%; height: auto;" />
+
+
+
 
 Use this theme folder to plan JAXA visits, astronomy museums, and planetarium-focused travel.
 
@@ -33,4 +33,4 @@ Use this theme folder to plan JAXA visits, astronomy museums, and planetarium-fo
 - Medium: JPY 15,000-25,000 (reserved entries, better transit windows, museum add-ons)
 - Relaxed: JPY 30,000+ (domestic flights where needed, premium stays, multiple paid exhibits)
 
-<img src="../../../../images/space_destinations_index_1.jpg" alt="Space Destinations Index" style="width: 80%; height: auto;" />
+

@@ -1,10 +1,10 @@
 **Kamakura**
 
-<img src="../../../images/Kamakura_1.jpg" alt="Kamakura location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kamakura_2.jpg" alt="Kamakura location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kamakura_3.jpg" alt="Kamakura location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Kamakura is one of the best day trips near Tokyo; for temple details see [Hase-dera (Kamakura)](../../../temples/Hase-dera%20(Kamakura).md) and [Meigetsu-in](../../../../temples-shrines/Meigetsu-in.md).
 
@@ -34,4 +34,4 @@ Kamakura is one of the best day trips near Tokyo; for temple details see [Hase-d
 - November for autumn leaves.
 - Spring is best for mixed weather and walking.
 
-<img src="../../../../../images/kamakura_1.jpg" alt="Kamakura" style="width: 80%; height: auto;" />
+

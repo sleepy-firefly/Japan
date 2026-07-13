@@ -1,10 +1,10 @@
 **Kumano Kodo Trail**
 
-<img src="../../../images/Kumano_Kodo_Trail_1.jpg" alt="Kumano_Kodo_Trail location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kumano_Kodo_Trail_2.jpg" alt="Kumano_Kodo_Trail location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kumano_Kodo_Trail_3.jpg" alt="Kumano_Kodo_Trail location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Kumano Kodo is a historic pilgrimage network through mountains, shrines, and rural villages in Wakayama.
 
@@ -31,4 +31,4 @@ Kumano Kodo is a historic pilgrimage network through mountains, shrines, and rur
 - March-May and October-November for best hiking weather.
 - Summer is greener but hotter, more humid, and wetter.
 
-<img src="../../../../../images/kumano_kodo_trail_1.jpg" alt="Kumano Kodo Trail" style="width: 80%; height: auto;" />
+

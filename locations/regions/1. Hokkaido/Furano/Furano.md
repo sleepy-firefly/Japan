@@ -1,10 +1,10 @@
 **Furano**
 
-<img src="../../../images/Furano_1.jpg" alt="Furano location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Furano_2.jpg" alt="Furano location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Furano_3.jpg" alt="Furano location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Furano is one of Hokkaido's top countryside destinations for flower fields, farm food, and scenic summer routes.
 
@@ -25,4 +25,4 @@ Furano is one of Hokkaido's top countryside destinations for flower fields, farm
 - Mid July to early August for peak lavender.
 - Winter for ski-oriented stays nearby.
 
-<img src="../../../../../images/furano_1.jpg" alt="Furano" style="width: 80%; height: auto;" />
+

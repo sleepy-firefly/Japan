@@ -1,10 +1,10 @@
 **Sakai**
 
-<img src="../../../images/Sakai_1.jpg" alt="Sakai location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Sakai_2.jpg" alt="Sakai location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Sakai_3.jpg" alt="Sakai location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Sakai is known for kofun burial mounds, tea history, and a quieter side of Osaka Prefecture.
 
@@ -24,4 +24,4 @@ Sakai is known for kofun burial mounds, tea history, and a quieter side of Osaka
 
 - Spring and autumn for outdoor historical sites.
 
-<img src="../../../../../images/sakai_1.jpg" alt="Sakai" style="width: 80%; height: auto;" />
+

@@ -1,10 +1,10 @@
 **Shinjuku (Tokyo District)**
 
-<img src="../../../../images/Shinjuku_1.jpg" alt="Shinjuku location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../../images/Shinjuku_2.jpg" alt="Shinjuku location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../../images/Shinjuku_3.jpg" alt="Shinjuku location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Shinjuku is a major transport hub with parks, department stores, nightlife lanes, and easy day-trip departures.
 
@@ -30,4 +30,4 @@ Shinjuku is a major transport hub with parks, department stores, nightlife lanes
 
 - March-April and November for park scenery and comfortable temperatures.
 
-<img src="../../../../../../images/shinjuku_1.jpg" alt="Shinjuku" style="width: 80%; height: auto;" />
+

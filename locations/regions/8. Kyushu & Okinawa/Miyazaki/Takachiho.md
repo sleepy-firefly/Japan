@@ -1,10 +1,10 @@
 **Takachiho**
 
-<img src="../../../images/Takachiho_1.jpg" alt="Takachiho location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Takachiho_2.jpg" alt="Takachiho location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Takachiho_3.jpg" alt="Takachiho location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Takachiho is a mountain-gorge destination linked to mythology, waterfalls, and shrine culture.
 
@@ -23,4 +23,4 @@ Takachiho is a mountain-gorge destination linked to mythology, waterfalls, and s
 
 - Spring and autumn for hiking and gorge views.
 
-<img src="../../../../../images/takachiho_1.jpg" alt="Takachiho" style="width: 80%; height: auto;" />
+

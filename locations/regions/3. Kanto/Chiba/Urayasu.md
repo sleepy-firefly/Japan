@@ -1,10 +1,10 @@
 **Urayasu (Tokyo Disney Resort Area)**
 
-<img src="../../../images/Urayasu_1.jpg" alt="Urayasu location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Urayasu_2.jpg" alt="Urayasu location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Urayasu_3.jpg" alt="Urayasu location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Urayasu is known for Tokyo DisneySea/Disneyland and resort hotels, with easy access from central Tokyo.
 
@@ -30,4 +30,4 @@ Urayasu is known for Tokyo DisneySea/Disneyland and resort hotels, with easy acc
 - Mid-week in January-February or June for lighter crowds.
 - October-December for seasonal park events.
 
-<img src="../../../../../images/urayasu_1.jpg" alt="Urayasu" style="width: 80%; height: auto;" />
+

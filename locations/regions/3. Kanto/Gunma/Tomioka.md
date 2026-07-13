@@ -1,10 +1,10 @@
 **Tomioka**
 
-<img src="../../../images/Tomioka_1.jpg" alt="Tomioka location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Tomioka_2.jpg" alt="Tomioka location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Tomioka_3.jpg" alt="Tomioka location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Tomioka is known for the UNESCO-listed Tomioka Silk Mill and Meiji-era industrial heritage.
 
@@ -29,4 +29,4 @@ Tomioka is known for the UNESCO-listed Tomioka Silk Mill and Meiji-era industria
 
 - Year-round, with spring and autumn best for town walks.
 
-<img src="../../../../../images/tomioka_1.jpg" alt="Tomioka" style="width: 80%; height: auto;" />
+

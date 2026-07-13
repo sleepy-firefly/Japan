@@ -1,8 +1,8 @@
 **Ichibancho (Sendai District)**
 
-<img src="../../../../../images/Ichibancho_1.jpg" alt="Ichibancho location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../../../images/Ichibancho_2.jpg" alt="Ichibancho location 2" style="width: 80%; height: auto;" />
+
+
 
 Ichibancho is Sendai's central arcade district for food, shopping, and festival decorations.
 

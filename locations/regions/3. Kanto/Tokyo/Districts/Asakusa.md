@@ -1,10 +1,10 @@
 **Asakusa (Tokyo District)**
 
-<img src="../../../../images/Asakusa_1.jpg" alt="Asakusa location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../../images/Asakusa_2.jpg" alt="Asakusa location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../../images/Asakusa_3.jpg" alt="Asakusa location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Asakusa is one of Tokyo's best traditional areas; for temple details see [Senso-ji](../../../../../temples-shrines/Senso-ji.md).
 
@@ -31,4 +31,4 @@ Asakusa is one of Tokyo's best traditional areas; for temple details see [Senso-
 - March-April for cherry blossoms near Sumida.
 - May and November for milder weather and festival walks.
 
-<img src="../../../../../../images/asakusa_1.jpg" alt="Asakusa" style="width: 80%; height: auto;" />
+

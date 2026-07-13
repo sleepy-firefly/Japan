@@ -1,10 +1,10 @@
 **Shibuya (Tokyo District)**
 
-<img src="../../../../images/Shibuya_1.jpg" alt="Shibuya location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../../images/Shibuya_2.jpg" alt="Shibuya location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../../images/Shibuya_3.jpg" alt="Shibuya location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Shibuya combines youth culture, shopping, food, and nightlife, with easy access to western Tokyo areas.
 
@@ -31,4 +31,4 @@ Shibuya combines youth culture, shopping, food, and nightlife, with easy access 
 - Year-round.
 - October-November is best for comfortable city walking.
 
-<img src="../../../../../../images/shibuya_1.jpg" alt="Shibuya" style="width: 80%; height: auto;" />
+

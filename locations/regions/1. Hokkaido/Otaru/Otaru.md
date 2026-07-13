@@ -1,10 +1,10 @@
 **Otaru**
 
-<img src="../../../images/Otaru_1.jpg" alt="Otaru location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Otaru_2.jpg" alt="Otaru location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Otaru_3.jpg" alt="Otaru location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Otaru is a compact canal town near Sapporo with old warehouses, seafood markets, and nostalgic streets.
 
@@ -27,4 +27,4 @@ For full event details, see [Hokkaido Winter Festivals](../../../../events/festi
 - Summer and autumn for walking.
 - February for Snow Light Path event period.
 
-<img src="../../../../../images/otaru_1.jpg" alt="Otaru" style="width: 80%; height: auto;" />
+

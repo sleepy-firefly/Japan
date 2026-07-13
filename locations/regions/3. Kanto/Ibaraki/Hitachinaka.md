@@ -1,10 +1,10 @@
 **Hitachinaka**
 
-<img src="../../../images/Hitachinaka_1.jpg" alt="Hitachinaka location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Hitachinaka_2.jpg" alt="Hitachinaka location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Hitachinaka_3.jpg" alt="Hitachinaka location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Hitachinaka is best known for Hitachi Seaside Park and its seasonal flower landscapes.
 
@@ -30,4 +30,4 @@ Hitachinaka is best known for Hitachi Seaside Park and its seasonal flower lands
 - April-May for nemophila.
 - October for kochia red hills.
 
-<img src="../../../../../images/hitachinaka_1.jpg" alt="Hitachinaka" style="width: 80%; height: auto;" />
+

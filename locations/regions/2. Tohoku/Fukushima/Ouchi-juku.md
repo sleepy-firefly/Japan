@@ -1,10 +1,10 @@
 **Ouchi-juku**
 
-<img src="../../../images/Ouchi-juku_1.jpg" alt="Ouchi-juku location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Ouchi-juku_2.jpg" alt="Ouchi-juku location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Ouchi-juku_3.jpg" alt="Ouchi-juku location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Ouchi-juku is a preserved post town with thatched-roof streets and Edo-era atmosphere.
 
@@ -24,4 +24,4 @@ Ouchi-juku is a preserved post town with thatched-roof streets and Edo-era atmos
 - Winter for snow scenery.
 - Late spring and autumn for comfortable walking.
 
-<img src="../../../../../images/ouchi_juku_1.jpg" alt="Ouchi-juku" style="width: 80%; height: auto;" />
+

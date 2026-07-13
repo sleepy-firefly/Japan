@@ -1,10 +1,10 @@
 **Hakodate**
 
-<img src="../../../images/Hakodate_1.jpg" alt="Hakodate location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Hakodate_2.jpg" alt="Hakodate location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Hakodate_3.jpg" alt="Hakodate location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Hakodate is a port city known for its morning market, historic slopes, and famous nighttime mountain view.
 
@@ -25,4 +25,4 @@ Hakodate is a port city known for its morning market, historic slopes, and famou
 - May-October for mild weather.
 - Winter for atmospheric night views.
 
-<img src="../../../../../images/hakodate_1.jpg" alt="Hakodate" style="width: 80%; height: auto;" />
+

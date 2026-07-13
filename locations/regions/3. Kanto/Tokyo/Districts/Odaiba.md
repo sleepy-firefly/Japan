@@ -2,13 +2,13 @@
 
 <img src="../../../../images/Odaiba_1.jpg" alt="Odaiba location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../../images/Odaiba_2.jpg" alt="Odaiba location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../../images/Odaiba_3.jpg" alt="Odaiba location 3" style="width: 80%; height: auto;" />
+
+
 
 <img src="../../../../../images/odaiba_1.jpg" alt="Odaiba" style="width: 80%; height: auto;" />
 
-Odaiba is a modern waterfront district; for digital museum details see [teamLab Planets Tokyo](../../../../../museums/teamLab%20Planets%20Tokyo.md). For major nearby tech expo context, see [CEATEC](../../../../../events/misc/CEATEC.md).
+Odaiba is a modern waterfront district; for digital museum details see [teamLab Planets Tokyo](../../../../museums/teamLab%20Planets%20Tokyo.md). For major nearby tech expo context, see [CEATEC](../../../../events/misc/CEATEC.md).
 
 &emsp;&emsp;**What to see (in order)**
 

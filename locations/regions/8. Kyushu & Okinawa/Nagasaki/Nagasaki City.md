@@ -1,10 +1,10 @@
 **Nagasaki City**
 
-<img src="../../../images/Nagasaki_City_1.jpg" alt="Nagasaki_City location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Nagasaki_City_2.jpg" alt="Nagasaki_City location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Nagasaki_City_3.jpg" alt="Nagasaki_City location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Nagasaki offers layered history, harbor views, hillside neighborhoods, and strong Chinese-European cultural influences.
 
@@ -29,4 +29,4 @@ Nagasaki offers layered history, harbor views, hillside neighborhoods, and stron
 
 - March-May and October-November for mild weather and city walks.
 
-<img src="../../../../../images/nagasaki_city_1.jpg" alt="Nagasaki City" style="width: 80%; height: auto;" />
+

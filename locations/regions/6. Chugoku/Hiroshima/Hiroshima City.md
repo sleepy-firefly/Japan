@@ -1,16 +1,16 @@
 **Hiroshima City**
 
-<img src="../../../images/Hiroshima_City_1.jpg" alt="Hiroshima_City location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Hiroshima_City_2.jpg" alt="Hiroshima_City location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Hiroshima_City_3.jpg" alt="Hiroshima_City location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Hiroshima combines important modern history with waterfront parks, food culture, and easy access to Miyajima.
 
 &emsp;&emsp;**Suggested order (1-2 days)**
 
-- Peace Memorial Park and Museum (see [Hiroshima Peace Memorial Museum](../../../../museums/Hiroshima%20Peace%20Memorial%20Museum.md))
+- Peace Memorial Park and Museum (see [Hiroshima Peace Memorial Museum](../../../museums/Hiroshima%20Peace%20Memorial%20Museum.md))
 - Atomic Bomb Dome area
 - Hiroshima Castle and Shukkeien Garden
 - Okonomiyaki dinner in downtown area
@@ -30,4 +30,4 @@ Hiroshima combines important modern history with waterfront parks, food culture,
 
 - March-May and October-November for comfortable city walking.
 
-<img src="../../../../../images/hiroshima_city_1.jpg" alt="Hiroshima City" style="width: 80%; height: auto;" />
+

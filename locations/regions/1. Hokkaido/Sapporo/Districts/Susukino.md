@@ -1,10 +1,10 @@
 **Susukino (Sapporo District)**
 
-<img src="../../../../images/Susukino_1.jpg" alt="Susukino location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../../images/Susukino_2.jpg" alt="Susukino location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../../images/Susukino_3.jpg" alt="Susukino location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Susukino is Sapporo's entertainment and dining district, especially known for ramen and nightlife.
 
@@ -19,4 +19,4 @@ Susukino is Sapporo's entertainment and dining district, especially known for ra
 - Year-round destination.
 - Winter evenings are most iconic for city atmosphere.
 
-<img src="../../../../../../images/susukino_1.jpg" alt="Susukino" style="width: 80%; height: auto;" />
+

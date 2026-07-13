@@ -1,10 +1,10 @@
 **Toyama City**
 
-<img src="../../../images/Toyama_City_1.jpg" alt="Toyama_City location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Toyama_City_2.jpg" alt="Toyama_City location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Toyama_City_3.jpg" alt="Toyama_City location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Toyama is a compact city used as a base for Alpine Route and Kurobe-area travel.
 
@@ -24,4 +24,4 @@ Toyama is a compact city used as a base for Alpine Route and Kurobe-area travel.
 
 - Spring to autumn for onward mountain routes.
 
-<img src="../../../../../images/toyama_city_1.jpg" alt="Toyama City" style="width: 80%; height: auto;" />
+

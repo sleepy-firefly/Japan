@@ -1,10 +1,10 @@
 **Fukuoka City**
 
-<img src="../../../../images/Fukuoka_1.jpg" alt="Fukuoka location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../../images/Fukuoka_2.jpg" alt="Fukuoka location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../../images/Fukuoka_3.jpg" alt="Fukuoka location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Fukuoka City is a major Kyushu hub with food culture, bayside parks, and efficient transit.
 
@@ -23,4 +23,4 @@ Fukuoka City is a major Kyushu hub with food culture, bayside parks, and efficie
 
 - Spring and autumn for comfortable urban exploration.
 
-<img src="../../../../../../images/fukuoka_1.jpg" alt="Fukuoka" style="width: 80%; height: auto;" />
+

@@ -1,10 +1,10 @@
 **Kochi City**
 
-<img src="../../../images/Kochi_City_1.jpg" alt="Kochi_City location 1" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kochi_City_2.jpg" alt="Kochi_City location 2" style="width: 80%; height: auto;" />
 
-<img src="../../../images/Kochi_City_3.jpg" alt="Kochi_City location 3" style="width: 80%; height: auto;" />
+
+
+
 
 Kochi City is known for castle views, lively food markets, and Pacific-facing culture.
 
@@ -24,4 +24,4 @@ Kochi City is known for castle views, lively food markets, and Pacific-facing cu
 - Spring and autumn for city walking.
 - Summer for festival atmosphere.
 
-<img src="../../../../../images/kochi_city_1.jpg" alt="Kochi City" style="width: 80%; height: auto;" />
+
