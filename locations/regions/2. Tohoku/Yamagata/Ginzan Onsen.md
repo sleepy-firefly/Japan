@@ -1,4 +1,10 @@
-﻿**Ginzan Onsen**
+**Ginzan Onsen**
+
+<img src="../../../images/Ginzan_Onsen_1.jpg" alt="Ginzan_Onsen location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Ginzan_Onsen_2.jpg" alt="Ginzan_Onsen location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Ginzan_Onsen_3.jpg" alt="Ginzan_Onsen location 3" style="width: 80%; height: auto;" />
 
 Ginzan Onsen is a historic hot spring town with Taisho-era architecture and romantic evening streets.
 
@@ -17,5 +23,5 @@ Ginzan Onsen is a historic hot spring town with Taisho-era architecture and roma
 
 - Winter for iconic snow-lit views.
 - Autumn for cooler weather and fewer crowds.
-<img src="../../../../../images/ginzan_onsen_1.jpg" alt="Ginzan Onsen" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/ginzan_onsen_1.jpg" alt="Ginzan Onsen" style="width: 80%; height: auto;" />

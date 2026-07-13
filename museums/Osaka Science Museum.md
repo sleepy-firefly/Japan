@@ -1,4 +1,8 @@
-﻿**Osaka Science Museum (Nakanoshima, Osaka)**
+**Osaka Science Museum (Nakanoshima, Osaka)**
+
+<img src="images/Osaka_Science_Museum_1.jpg" alt="Osaka_Science_Museum 1" style="width: 80%; height: auto;" />
+
+<img src="images/Osaka_Science_Museum_2.jpg" alt="Osaka_Science_Museum 2" style="width: 80%; height: auto;" />
 
 Osaka Science Museum is a practical Kansai science stop with astronomy-focused exhibits and a planetarium program.
 
@@ -14,3 +18,4 @@ It is easy to combine with central Osaka sightseeing and riverfront routes.
 
 - Check planetarium session times before arrival to avoid long waits.
 
+<img src="../images/osaka_science_museum_2.jpg" alt="Osaka Science Museum" style="width: 80%; height: auto;" />

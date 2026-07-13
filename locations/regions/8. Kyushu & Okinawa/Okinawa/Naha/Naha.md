@@ -1,4 +1,10 @@
-﻿**Naha**
+**Naha**
+
+<img src="../../../../images/Naha_1.jpg" alt="Naha location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../../images/Naha_2.jpg" alt="Naha location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../../images/Naha_3.jpg" alt="Naha location 3" style="width: 80%; height: auto;" />
 
 Naha is Okinawa's capital with castle history, markets, and easy island-hopping access.
 
@@ -17,5 +23,5 @@ Naha is Okinawa's capital with castle history, markets, and easy island-hopping 
 
 - November-April for milder weather.
 - Summer is beach-ready but hotter and more humid.
-<img src="../../../../../../images/naha_1.jpg" alt="Naha" style="width: 80%; height: auto;" />
 
+<img src="../../../../../../images/naha_1.jpg" alt="Naha" style="width: 80%; height: auto;" />

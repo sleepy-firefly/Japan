@@ -1,4 +1,10 @@
-﻿**Aomori City**
+**Aomori City**
+
+<img src="../../../images/Aomori_City_1.jpg" alt="Aomori_City location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Aomori_City_2.jpg" alt="Aomori_City location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Aomori_City_3.jpg" alt="Aomori_City location 3" style="width: 80%; height: auto;" />
 
 Aomori City is known for Nebuta culture, harbor walks, and easy gateways to northern Tohoku nature.
 
@@ -21,5 +27,5 @@ Event guide: [Nebuta Festival](../../../../events/festivals/Nebuta%20Festival.md
 
 - August for Nebuta Festival.
 - Spring and autumn for general sightseeing.
-<img src="../../../../../images/aomori_city_1.jpg" alt="Aomori City" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/aomori_city_1.jpg" alt="Aomori City" style="width: 80%; height: auto;" />

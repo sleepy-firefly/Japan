@@ -1,4 +1,10 @@
-﻿**Nagoya**
+**Nagoya**
+
+<img src="../../../../images/Nagoya_1.jpg" alt="Nagoya location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../../images/Nagoya_2.jpg" alt="Nagoya location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../../images/Nagoya_3.jpg" alt="Nagoya location 3" style="width: 80%; height: auto;" />
 
 Nagoya is a major Chubu city with castle history, modern shopping districts, and strong food culture.
 
@@ -16,5 +22,5 @@ Nagoya is a major Chubu city with castle history, modern shopping districts, and
 &emsp;&emsp;**Best season**
 
 - March-May and October-November for city walks.
-<img src="../../../../../../images/nagoya_1.jpg" alt="Nagoya" style="width: 80%; height: auto;" />
 
+<img src="../../../../../../images/nagoya_1.jpg" alt="Nagoya" style="width: 80%; height: auto;" />

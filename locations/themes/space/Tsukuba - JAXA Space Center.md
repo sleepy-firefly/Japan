@@ -1,4 +1,10 @@
-﻿**Tsukuba - JAXA Space Center**
+**Tsukuba - JAXA Space Center**
+
+<img src="../../images/Tsukuba_-_JAXA_Space_Center_1.jpg" alt="Tsukuba_-_JAXA_Space_Center 1" style="width: 80%; height: auto;" />
+
+<img src="../../images/Tsukuba_-_JAXA_Space_Center_2.jpg" alt="Tsukuba_-_JAXA_Space_Center 2" style="width: 80%; height: auto;" />
+
+<img src="../../images/Tsukuba_-_JAXA_Space_Center_3.jpg" alt="Tsukuba_-_JAXA_Space_Center 3" style="width: 80%; height: auto;" />
 
 Tsukuba is one of Japan's best practical space destinations, centered on JAXA facilities and science-city research culture.
 
@@ -36,5 +42,5 @@ Tsukuba is one of Japan's best practical space destinations, centered on JAXA fa
 
 - [Tokyo - Miraikan and TeNQ](Tokyo%20-%20Miraikan%20and%20TeNQ.md)
 - [CEATEC](../../../events/misc/CEATEC.md)
-<img src="../../../../images/tsukuba_jaxa_space_center_1.jpg" alt="Tsukuba - JAXA Space Center" style="width: 80%; height: auto;" />
 
+<img src="../../../../images/tsukuba_jaxa_space_center_1.jpg" alt="Tsukuba - JAXA Space Center" style="width: 80%; height: auto;" />

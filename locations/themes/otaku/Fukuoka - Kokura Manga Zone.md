@@ -1,4 +1,4 @@
-﻿**Fukuoka - Kokura Manga Zone**
+**Fukuoka - Kokura Manga Zone**
 
 Kokura (Kitakyushu area) is a useful Kyushu otaku stop, known for manga culture touchpoints and a practical city-center layout.
 
@@ -18,7 +18,17 @@ Kokura (Kitakyushu area) is a useful Kyushu otaku stop, known for manga culture 
 - Manga-focused museum or exhibit stop
 - River/castle area walk and shopping streets
 
+<img src="../../../images/fukuoka_kokura_manga_museums.jpg" alt="Manga museums and exhibits in Kokura" style="width: 80%; height: auto;" />
+
 &emsp;**Practical Notes**
+
+- Best combined with an overnight in Fukuoka City
+- Verify opening days for museum/exhibit venues before planning
+- Works well as a weather-proof urban alternative
+
+<img src="../../../images/fukuoka_kokura_shopping_district.jpg" alt="Kokura shopping district and dining" style="width: 80%; height: auto;" />
+
+&emsp;**City-to-City Routing**
 
 - Best combined with an overnight in Fukuoka City
 - Verify opening days for museum/exhibit venues before planning
@@ -40,4 +50,3 @@ Kokura (Kitakyushu area) is a useful Kyushu otaku stop, known for manga culture 
 
 - [Tokyo - Akihabara](Tokyo%20-%20Akihabara.md)
 - [Tokyo Game Show](../../../events/otaku/Tokyo%20Game%20Show.md)
-

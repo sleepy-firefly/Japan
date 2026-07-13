@@ -1,4 +1,4 @@
-﻿**Firefly Festival (Hotaru Matsuri)**
+**Firefly Festival (Hotaru Matsuri)**
 
 Firefly festival is held in many places across Japan in June, where you can see fireflies light up the night sky.
 
@@ -6,4 +6,10 @@ One of the most famous places to see fireflies is in the Fussa area of Tokyo, wh
 
 <img src="../../images/firefly_festival_1.jpg" alt="Firefly festival in Japan" style="width: 80%; height: auto;" />
 
+<img src="../../images/firefly_festival_2.jpg" alt="Fireflies glowing at night" style="width: 80%; height: auto;" />
+
 Another popular location is the Genji Firefly Festival in Kyoto, where you can see the Genji fireflies, which are a symbol of love and are often associated with the story of Genji Monogatari.
+
+<img src="../../images/firefly_night_river.jpg" alt="Firefly festival by the river" style="width: 80%; height: auto;" />
+
+<img src="../../images/firefly_summer_night.jpg" alt="Summer night firefly viewing" style="width: 80%; height: auto;" />

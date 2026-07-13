@@ -1,4 +1,10 @@
-﻿**Tokyo - Akihabara**
+**Tokyo - Akihabara**
+
+<img src="../../images/Tokyo_-_Akihabara_1.jpg" alt="Tokyo_-_Akihabara 1" style="width: 80%; height: auto;" />
+
+<img src="../../images/Tokyo_-_Akihabara_2.jpg" alt="Tokyo_-_Akihabara 2" style="width: 80%; height: auto;" />
+
+<img src="../../images/Tokyo_-_Akihabara_3.jpg" alt="Tokyo_-_Akihabara 3" style="width: 80%; height: auto;" />
 
 <img src="../../../images/tokyo_akihabara_1.jpg" alt="Tokyo - Akihabara" style="width: 80%; height: auto;" />
 

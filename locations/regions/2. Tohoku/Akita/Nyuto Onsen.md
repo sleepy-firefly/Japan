@@ -1,4 +1,10 @@
-﻿**Nyuto Onsen**
+**Nyuto Onsen**
+
+<img src="../../../images/Nyuto_Onsen_1.jpg" alt="Nyuto_Onsen location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Nyuto_Onsen_2.jpg" alt="Nyuto_Onsen location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Nyuto_Onsen_3.jpg" alt="Nyuto_Onsen location 3" style="width: 80%; height: auto;" />
 
 Nyuto Onsen is a mountain hot spring area with traditional ryokan and scenic forest surroundings.
 
@@ -17,5 +23,5 @@ Nyuto Onsen is a mountain hot spring area with traditional ryokan and scenic for
 
 - Winter for snow onsen atmosphere.
 - Autumn for color scenery.
-<img src="../../../../../images/nyuto_onsen_1.jpg" alt="Nyuto Onsen" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/nyuto_onsen_1.jpg" alt="Nyuto Onsen" style="width: 80%; height: auto;" />

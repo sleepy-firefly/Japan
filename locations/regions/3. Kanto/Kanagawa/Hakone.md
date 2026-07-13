@@ -1,4 +1,10 @@
-﻿**Hakone**
+**Hakone**
+
+<img src="../../../images/Hakone_1.jpg" alt="Hakone location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Hakone_2.jpg" alt="Hakone location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Hakone_3.jpg" alt="Hakone location 3" style="width: 80%; height: auto;" />
 
 Hakone is a classic onsen and nature destination with lake views, mountain ropeways, and museums.
 
@@ -23,5 +29,5 @@ Hakone is a classic onsen and nature destination with lake views, mountain ropew
 
 - October-November for foliage.
 - March-April for clearer views and spring weather.
-<img src="../../../../../images/hakone_1.jpg" alt="Hakone" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/hakone_1.jpg" alt="Hakone" style="width: 80%; height: auto;" />

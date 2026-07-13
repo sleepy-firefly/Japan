@@ -8,11 +8,15 @@ Float designs often depict historical and mythological figures, and the parade a
 
 <img src="../../images/tanabata_festival_4.jpg" alt="Night festival light atmosphere similar to northern Japan summer events" style="width: 80%; height: auto;" />
 
+<img src="../../images/nebuta_illuminated_floats.jpg" alt="Nebuta Festival illuminated parade floats" style="width: 80%; height: auto;" />
+
 &emsp;&emsp;**Practical info**
 
 - Typical period: August 2-7.
 - Main area: central Aomori parade routes.
 - Best strategy: reserve accommodation and viewing spots well in advance.
+
+<img src="../../images/nebuta_night_procession.jpg" alt="Nebuta Festival night procession" style="width: 80%; height: auto;" />
 
 &emsp;&emsp;**Related location notes**
 

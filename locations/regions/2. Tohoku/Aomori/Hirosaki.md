@@ -1,4 +1,10 @@
-﻿**Hirosaki**
+**Hirosaki**
+
+<img src="../../../images/Hirosaki_1.jpg" alt="Hirosaki location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Hirosaki_2.jpg" alt="Hirosaki location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Hirosaki_3.jpg" alt="Hirosaki location 3" style="width: 80%; height: auto;" />
 
 Hirosaki is famous for one of Japan's best castle-park cherry blossom scenes and a historic samurai-town atmosphere.
 
@@ -18,5 +24,5 @@ Hirosaki is famous for one of Japan's best castle-park cherry blossom scenes and
 
 - Late April to early May for cherry blossoms.
 - October-November for autumn colors.
-<img src="../../../../../images/hirosaki_1.jpg" alt="Hirosaki" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/hirosaki_1.jpg" alt="Hirosaki" style="width: 80%; height: auto;" />

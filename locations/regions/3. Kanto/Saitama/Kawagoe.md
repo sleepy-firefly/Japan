@@ -1,4 +1,10 @@
-﻿**Kawagoe**
+**Kawagoe**
+
+<img src="../../../images/Kawagoe_1.jpg" alt="Kawagoe location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Kawagoe_2.jpg" alt="Kawagoe location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Kawagoe_3.jpg" alt="Kawagoe location 3" style="width: 80%; height: auto;" />
 
 Kawagoe is known as "Little Edo" for its preserved warehouse streets and classic town atmosphere.
 
@@ -24,5 +30,5 @@ Kawagoe is known as "Little Edo" for its preserved warehouse streets and classic
 
 - October-November for festivals and cooler weather.
 - Spring for easier walking temperatures.
-<img src="../../../../../images/kawagoe_1.jpg" alt="Kawagoe" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/kawagoe_1.jpg" alt="Kawagoe" style="width: 80%; height: auto;" />

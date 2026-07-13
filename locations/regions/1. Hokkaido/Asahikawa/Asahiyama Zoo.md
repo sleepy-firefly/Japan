@@ -1,4 +1,10 @@
-﻿**Asahiyama Zoo**
+**Asahiyama Zoo**
+
+<img src="../../../images/Asahiyama_Zoo_1.jpg" alt="Asahiyama_Zoo location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Asahiyama_Zoo_2.jpg" alt="Asahiyama_Zoo location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Asahiyama_Zoo_3.jpg" alt="Asahiyama_Zoo location 3" style="width: 80%; height: auto;" />
 
 A very popular zoological garden just outside of central Asahikawa City. Its popularity lies in the enclosures which allow visitors to observe the animals from various angles, many of which are unique to Asahiyama Zoo.
 

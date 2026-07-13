@@ -1,10 +1,16 @@
-﻿**Nikko**
+**Nikko**
+
+<img src="../../../images/Nikko_1.jpg" alt="Nikko location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Nikko_2.jpg" alt="Nikko location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Nikko_3.jpg" alt="Nikko location 3" style="width: 80%; height: auto;" />
 
 Nikko is one of the top cultural-nature destinations near Tokyo, with World Heritage shrines and mountain scenery.
 
 &emsp;&emsp;**Suggested order (1-2 days)**
 
-- Toshogu Shrine complex
+- [Tosho-gu](../../../../temples-shrines/Tosho-gu.md) shrine complex
 - Rinno-ji and Futarasan Shrine
 - Lake Chuzenji and Kegon Falls (if staying overnight)
 
@@ -24,5 +30,5 @@ Nikko is one of the top cultural-nature destinations near Tokyo, with World Heri
 
 - October-November for autumn foliage.
 - Late spring/early summer for greener mountain scenery.
-<img src="../../../../../images/nikko_1.jpg" alt="Nikko" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/nikko_1.jpg" alt="Nikko" style="width: 80%; height: auto;" />

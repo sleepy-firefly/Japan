@@ -1,6 +1,12 @@
-﻿**Koyasan**
+**Koyasan**
 
-Koyasan is a major sacred mountain center; for temple details see [Kongobu-ji](../../../../temples/Kongobu-ji.md).
+<img src="../../../images/Koyasan_1.jpg" alt="Koyasan location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Koyasan_2.jpg" alt="Koyasan location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Koyasan_3.jpg" alt="Koyasan location 3" style="width: 80%; height: auto;" />
+
+Koyasan is a major sacred mountain center; for temple details see [Kongobu-ji](../../../../temples-shrines/Kongobu-ji.md).
 
 &emsp;&emsp;**Top places**
 
@@ -17,5 +23,5 @@ Koyasan is a major sacred mountain center; for temple details see [Kongobu-ji](.
 
 - Spring and autumn for walking comfort.
 - Winter for quieter temple-stay atmosphere.
-<img src="../../../../../images/koyasan_1.jpg" alt="Koyasan" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/koyasan_1.jpg" alt="Koyasan" style="width: 80%; height: auto;" />

@@ -1,4 +1,10 @@
-﻿**Naoshima (Kagawa Side Access)**
+**Naoshima (Kagawa Side Access)**
+
+<img src="../../../images/Naoshima_1.jpg" alt="Naoshima location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Naoshima_2.jpg" alt="Naoshima location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Naoshima_3.jpg" alt="Naoshima location 3" style="width: 80%; height: auto;" />
 
 Naoshima is one of Japan's best-known contemporary art islands.
 
@@ -16,5 +22,5 @@ Naoshima is one of Japan's best-known contemporary art islands.
 &emsp;&emsp;**Best season**
 
 - Spring and autumn for cycling and island walks.
-<img src="../../../../../images/naoshima_1.jpg" alt="Naoshima" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/naoshima_1.jpg" alt="Naoshima" style="width: 80%; height: auto;" />

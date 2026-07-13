@@ -1,4 +1,10 @@
-﻿**Odaiba (Tokyo Bay Area District)**
+**Odaiba (Tokyo Bay Area District)**
+
+<img src="../../../../images/Odaiba_1.jpg" alt="Odaiba location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../../images/Odaiba_2.jpg" alt="Odaiba location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../../images/Odaiba_3.jpg" alt="Odaiba location 3" style="width: 80%; height: auto;" />
 
 <img src="../../../../../images/odaiba_1.jpg" alt="Odaiba" style="width: 80%; height: auto;" />
 

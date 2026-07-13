@@ -1,4 +1,4 @@
-﻿**Hiroshima Peace Memorial Museum (Hiroshima City)**
+**Hiroshima Peace Memorial Museum (Hiroshima City)**
 
 Hiroshima Peace Memorial Museum is one of Japan's most important modern-history museums.
 
@@ -13,3 +13,9 @@ It is typically visited together with Peace Memorial Park and the Atomic Bomb Do
 &emsp;&emsp;**Practical note**
 
 - Allow extra time for both museum and memorial-park sections.
+
+<img src="../images/hiroshima_peace_memorial_museum_2.jpg" alt="Hiroshima Peace Memorial Museum exterior" style="width: 80%; height: auto;" />
+
+<img src="../images/hiroshima_memorial_park.jpg" alt="Hiroshima Memorial Park and dome" style="width: 80%; height: auto;" />
+
+<img src="../images/hiroshima_peace_ceremony.jpg" alt="Hiroshima peace memorial ceremony" style="width: 80%; height: auto;" />

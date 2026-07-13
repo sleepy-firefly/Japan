@@ -1,4 +1,10 @@
-﻿**Sakae (Nagoya District)**
+**Sakae (Nagoya District)**
+
+<img src="../../../../../images/Sakae_1.jpg" alt="Sakae location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../../../images/Sakae_2.jpg" alt="Sakae location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../../../images/Sakae_3.jpg" alt="Sakae location 3" style="width: 80%; height: auto;" />
 
 Sakae is Nagoya's main downtown area for shopping, nightlife, and city landmarks.
 
@@ -12,5 +18,5 @@ Sakae is Nagoya's main downtown area for shopping, nightlife, and city landmarks
 
 - Year-round urban destination.
 - Best comfort in spring and autumn.
-<img src="../../../../../../../images/sakae_1.jpg" alt="Sakae" style="width: 80%; height: auto;" />
 
+<img src="../../../../../../../images/sakae_1.jpg" alt="Sakae" style="width: 80%; height: auto;" />

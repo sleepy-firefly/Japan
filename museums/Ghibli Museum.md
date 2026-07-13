@@ -1,4 +1,4 @@
-﻿**Ghibli Museum (Mitaka, Tokyo)**
+**Ghibli Museum (Mitaka, Tokyo)**
 
 Ghibli Museum is one of Japan's most popular animation museums and a top destination for anime fans.
 
@@ -19,3 +19,7 @@ It focuses on the creative process behind animation and usually requires timed-e
 <img src="../images/mitaka_ghibli_museum_3.jpg" alt="Ghibli Museum" style="width: 80%; height: auto;" />
 
 <img src="../images/mitaka_ghibli_museum_4.jpg" alt="Ghibli Museum" style="width: 80%; height: auto;" />
+
+<img src="../images/ghibli_museum_2.jpg" alt="Ghibli Museum exterior and surroundings" style="width: 80%; height: auto;" />
+
+<img src="../images/ghibli_museum_3.jpg" alt="Ghibli Museum sign" style="width: 80%; height: auto;" />

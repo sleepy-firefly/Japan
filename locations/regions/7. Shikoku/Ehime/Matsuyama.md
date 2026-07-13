@@ -1,4 +1,10 @@
-﻿**Matsuyama**
+**Matsuyama**
+
+<img src="../../../images/Matsuyama_1.jpg" alt="Matsuyama location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Matsuyama_2.jpg" alt="Matsuyama location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Matsuyama_3.jpg" alt="Matsuyama location 3" style="width: 80%; height: auto;" />
 
 Matsuyama offers castle views, tram-based city travel, and traditional bathing culture.
 
@@ -16,5 +22,5 @@ Matsuyama offers castle views, tram-based city travel, and traditional bathing c
 &emsp;&emsp;**Best season**
 
 - Spring and autumn for city and castle routes.
-<img src="../../../../../images/matsuyama_1.jpg" alt="Matsuyama" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/matsuyama_1.jpg" alt="Matsuyama" style="width: 80%; height: auto;" />

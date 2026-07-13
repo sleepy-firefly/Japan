@@ -1,4 +1,10 @@
-﻿**Narita**
+**Narita**
+
+<img src="../../../images/Narita_1.jpg" alt="Narita location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Narita_2.jpg" alt="Narita location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Narita_3.jpg" alt="Narita location 3" style="width: 80%; height: auto;" />
 
 Narita is more than an airport city: it has a historic temple area, old shopping street, and local eel cuisine.
 
@@ -22,5 +28,5 @@ Narita is more than an airport city: it has a historic temple area, old shopping
 &emsp;&emsp;**Best season**
 
 - March-April and October-November for temple walks.
-<img src="../../../../../images/narita_1.jpg" alt="Narita" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/narita_1.jpg" alt="Narita" style="width: 80%; height: auto;" />

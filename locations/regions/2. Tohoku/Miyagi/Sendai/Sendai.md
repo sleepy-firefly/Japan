@@ -1,4 +1,8 @@
-﻿**Sendai**
+**Sendai**
+
+<img src="../../../../images/Sendai_1.jpg" alt="Sendai location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../../images/Sendai_2.jpg" alt="Sendai location 2" style="width: 80%; height: auto;" />
 
 Sendai is Tohoku's main city hub with broad boulevards, shopping arcades, and strong festival culture.
 

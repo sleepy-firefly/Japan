@@ -1,4 +1,6 @@
-﻿**Biei Town**
+**Biei Town**
+
+<img src="../../../images/Biei_Town_1.jpg" alt="Biei_Town location 1" style="width: 80%; height: auto;" />
 
 <img src="../../../../images/biei_town_1.jpg" alt="Biei Town" style="width: 80%; height: auto;" />
 

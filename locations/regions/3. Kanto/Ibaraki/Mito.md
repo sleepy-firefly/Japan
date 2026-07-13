@@ -1,4 +1,10 @@
-﻿**Mito**
+**Mito**
+
+<img src="../../../images/Mito_1.jpg" alt="Mito location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Mito_2.jpg" alt="Mito location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Mito_3.jpg" alt="Mito location 3" style="width: 80%; height: auto;" />
 
 Mito is famous for Kairakuen Garden (one of Japan's top three gardens) and local history.
 
@@ -22,5 +28,5 @@ Mito is famous for Kairakuen Garden (one of Japan's top three gardens) and local
 
 - February-March for plum blossoms at Kairakuen.
 - Autumn also pleasant for garden visits.
-<img src="../../../../../images/mito_1.jpg" alt="Mito" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/mito_1.jpg" alt="Mito" style="width: 80%; height: auto;" />

@@ -1,4 +1,10 @@
-﻿**Nasu**
+**Nasu**
+
+<img src="../../../images/Nasu_1.jpg" alt="Nasu location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Nasu_2.jpg" alt="Nasu location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Nasu_3.jpg" alt="Nasu location 3" style="width: 80%; height: auto;" />
 
 Nasu is a highland resort area with nature walks, hot springs, and family-friendly attractions.
 
@@ -21,5 +27,5 @@ Nasu is a highland resort area with nature walks, hot springs, and family-friend
 &emsp;&emsp;**Best season/month**
 
 - May-June and October for best weather and scenery.
-<img src="../../../../../images/nasu_1.jpg" alt="Nasu" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/nasu_1.jpg" alt="Nasu" style="width: 80%; height: auto;" />

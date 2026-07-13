@@ -1,4 +1,10 @@
-﻿**Morioka**
+**Morioka**
+
+<img src="../../../images/Morioka_1.jpg" alt="Morioka location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Morioka_2.jpg" alt="Morioka location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Morioka_3.jpg" alt="Morioka location 3" style="width: 80%; height: auto;" />
 
 Morioka is a calm regional city with castle-park remains, local noodle culture, and good onward connections.
 
@@ -17,5 +23,5 @@ Morioka is a calm regional city with castle-park remains, local noodle culture, 
 &emsp;&emsp;**Best season**
 
 - May-June and October-November for city walks.
-<img src="../../../../../images/morioka_1.jpg" alt="Morioka" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/morioka_1.jpg" alt="Morioka" style="width: 80%; height: auto;" />

@@ -1,4 +1,10 @@
-﻿**Osaka - Nipponbashi Den Den Town**
+**Osaka - Nipponbashi Den Den Town**
+
+<img src="../../images/Osaka_-_Nipponbashi_Den_Den_Town_1.jpg" alt="Osaka_-_Nipponbashi_Den_Den_Town 1" style="width: 80%; height: auto;" />
+
+<img src="../../images/Osaka_-_Nipponbashi_Den_Den_Town_2.jpg" alt="Osaka_-_Nipponbashi_Den_Den_Town 2" style="width: 80%; height: auto;" />
+
+<img src="../../images/Osaka_-_Nipponbashi_Den_Den_Town_3.jpg" alt="Osaka_-_Nipponbashi_Den_Den_Town 3" style="width: 80%; height: auto;" />
 
 Nipponbashi (Den Den Town) is Osaka's core otaku and electronics area, often compared to Akihabara at a smaller scale.
 
@@ -37,5 +43,5 @@ Nipponbashi (Den Den Town) is Osaka's core otaku and electronics area, often com
 
 - [Kyoto - Kyoto International Manga Museum](Kyoto%20-%20Kyoto%20International%20Manga%20Museum.md)
 - [Comiket](../../../events/otaku/Comiket.md)
-<img src="../../../../images/osaka_nipponbashi_den_den_town_1.jpg" alt="Osaka - Nipponbashi Den Den Town" style="width: 80%; height: auto;" />
 
+<img src="../../../../images/osaka_nipponbashi_den_den_town_1.jpg" alt="Osaka - Nipponbashi Den Den Town" style="width: 80%; height: auto;" />

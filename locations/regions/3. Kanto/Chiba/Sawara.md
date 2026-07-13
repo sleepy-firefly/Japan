@@ -1,4 +1,10 @@
-﻿**Sawara (Katori)**
+**Sawara (Katori)**
+
+<img src="../../../images/Sawara_1.jpg" alt="Sawara location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Sawara_2.jpg" alt="Sawara location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Sawara_3.jpg" alt="Sawara location 3" style="width: 80%; height: auto;" />
 
 Sawara is a preserved canal town with Edo-period atmosphere, old merchant houses, and a slower pace.
 
@@ -26,5 +32,5 @@ Festival details: [Sawara Grand Festival](../../../../events/festivals/Sawara%20
 
 - July for Sawara Grand Festival periods.
 - Spring and autumn for comfortable walking.
-<img src="../../../../../images/sawara_1.jpg" alt="Sawara" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/sawara_1.jpg" alt="Sawara" style="width: 80%; height: auto;" />

@@ -1,4 +1,4 @@
-﻿**Sakura Yabusame Festival**
+**Sakura Yabusame Festival**
 
 The Sakura Yabusame Festival in Towada, Aomori, is a spring event that combines cherry blossom scenery with traditional horseback archery. One of its most distinctive features is the participation of female archers in colorful traditional costumes.
 
@@ -6,6 +6,10 @@ The event usually takes place in April, when sakura are in bloom. Visitors can w
 
 <img src="../../images/towada.jpg" alt="Sakura Yabusame Festival in Towada" style="width: 80%; height: auto;" />
 
+<img src="../../images/sakura_yabusame_archery.jpg" alt="Horseback archery at Sakura Yabusame" style="width: 80%; height: auto;" />
+
 The contrast of cherry blossoms, horses, and historical martial tradition makes this festival a unique spring experience in northern Japan.
 
+<img src="../../images/sakura_yabusame_ceremony.jpg" alt="Sakura Yabusame ceremony" style="width: 80%; height: auto;" />
 
+<img src="../../images/sakura_yabusame_crowd.jpg" alt="Sakura Yabusame festival atmosphere" style="width: 80%; height: auto;" />

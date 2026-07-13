@@ -1,4 +1,10 @@
-﻿**Hiroshima City**
+**Hiroshima City**
+
+<img src="../../../images/Hiroshima_City_1.jpg" alt="Hiroshima_City location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Hiroshima_City_2.jpg" alt="Hiroshima_City location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Hiroshima_City_3.jpg" alt="Hiroshima_City location 3" style="width: 80%; height: auto;" />
 
 Hiroshima combines important modern history with waterfront parks, food culture, and easy access to Miyajima.
 
@@ -23,5 +29,5 @@ Hiroshima combines important modern history with waterfront parks, food culture,
 &emsp;&emsp;**Best season**
 
 - March-May and October-November for comfortable city walking.
-<img src="../../../../../images/hiroshima_city_1.jpg" alt="Hiroshima City" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/hiroshima_city_1.jpg" alt="Hiroshima City" style="width: 80%; height: auto;" />

@@ -1,4 +1,10 @@
-﻿**Kumamoto City**
+**Kumamoto City**
+
+<img src="../../../images/Kumamoto_City_1.jpg" alt="Kumamoto_City location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Kumamoto_City_2.jpg" alt="Kumamoto_City location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Kumamoto_City_3.jpg" alt="Kumamoto_City location 3" style="width: 80%; height: auto;" />
 
 Kumamoto City is known for castle reconstruction areas, gardens, and access to Aso region.
 
@@ -16,5 +22,5 @@ Kumamoto City is known for castle reconstruction areas, gardens, and access to A
 &emsp;&emsp;**Best season**
 
 - Spring and autumn for city exploration.
-<img src="../../../../../images/kumamoto_city_1.jpg" alt="Kumamoto City" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/kumamoto_city_1.jpg" alt="Kumamoto City" style="width: 80%; height: auto;" />

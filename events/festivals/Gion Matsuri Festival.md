@@ -1,4 +1,4 @@
-﻿**Gion Matsuri Festival**
+**Gion Matsuri Festival**
 
 Gion Matsuri is one of Japan's most famous traditional festivals and is held in Kyoto throughout July. The festival began more than a thousand years ago as a purification ritual to pray for protection from epidemics and disasters.
 
@@ -13,4 +13,3 @@ The festival atmosphere is lively but still deeply connected to local traditions
 <img src="../../images/gion_matsuri_3.jpg" alt="Gion Matsuri in Kyoto" style="width: 80%; height: auto;" />
 
 <img src="../../images/gion_matsuri_4.jpg" alt="Gion Matsuri in Kyoto" style="width: 80%; height: auto;" />
-

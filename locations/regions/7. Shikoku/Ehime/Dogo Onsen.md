@@ -1,4 +1,10 @@
-﻿**Dogo Onsen**
+**Dogo Onsen**
+
+<img src="../../../images/Dogo_Onsen_1.jpg" alt="Dogo_Onsen location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Dogo_Onsen_2.jpg" alt="Dogo_Onsen location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Dogo_Onsen_3.jpg" alt="Dogo_Onsen location 3" style="width: 80%; height: auto;" />
 
 Dogo Onsen is one of Japan's oldest hot spring areas with classic bathhouse architecture.
 
@@ -17,5 +23,5 @@ Dogo Onsen is one of Japan's oldest hot spring areas with classic bathhouse arch
 
 - Year-round onsen destination.
 - Autumn and winter feel especially atmospheric.
-<img src="../../../../../images/dogo_onsen_1.jpg" alt="Dogo Onsen" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/dogo_onsen_1.jpg" alt="Dogo Onsen" style="width: 80%; height: auto;" />

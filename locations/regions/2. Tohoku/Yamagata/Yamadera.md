@@ -1,4 +1,10 @@
-﻿**Yamadera**
+**Yamadera**
+
+<img src="../../../images/Yamadera_1.jpg" alt="Yamadera location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Yamadera_2.jpg" alt="Yamadera location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Yamadera_3.jpg" alt="Yamadera location 3" style="width: 80%; height: auto;" />
 
 Yamadera is a mountain temple complex with dramatic stair climbs and valley views.
 
@@ -16,5 +22,5 @@ Yamadera is a mountain temple complex with dramatic stair climbs and valley view
 &emsp;&emsp;**Best season**
 
 - May-June and October-November for comfortable hiking.
-<img src="../../../../../images/yamadera_1.jpg" alt="Yamadera" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/yamadera_1.jpg" alt="Yamadera" style="width: 80%; height: auto;" />

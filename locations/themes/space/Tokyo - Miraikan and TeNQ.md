@@ -1,4 +1,10 @@
-﻿**Tokyo - Miraikan and TeNQ**
+**Tokyo - Miraikan and TeNQ**
+
+<img src="../../images/Tokyo_-_Miraikan_and_TeNQ_1.jpg" alt="Tokyo_-_Miraikan_and_TeNQ 1" style="width: 80%; height: auto;" />
+
+<img src="../../images/Tokyo_-_Miraikan_and_TeNQ_2.jpg" alt="Tokyo_-_Miraikan_and_TeNQ 2" style="width: 80%; height: auto;" />
+
+<img src="../../images/Tokyo_-_Miraikan_and_TeNQ_3.jpg" alt="Tokyo_-_Miraikan_and_TeNQ 3" style="width: 80%; height: auto;" />
 
 Tokyo offers the easiest high-density space-themed day through Odaiba's Miraikan and central-city TeNQ exhibits.
 
@@ -36,5 +42,5 @@ Tokyo offers the easiest high-density space-themed day through Odaiba's Miraikan
 
 - [Tsukuba - JAXA Space Center](Tsukuba%20-%20JAXA%20Space%20Center.md)
 - [Tokyo Game Show](../../../events/otaku/Tokyo%20Game%20Show.md)
-<img src="../../../../images/tokyo_miraikan_and_tenq_1.jpg" alt="Tokyo - Miraikan and TeNQ" style="width: 80%; height: auto;" />
 
+<img src="../../../../images/tokyo_miraikan_and_tenq_1.jpg" alt="Tokyo - Miraikan and TeNQ" style="width: 80%; height: auto;" />

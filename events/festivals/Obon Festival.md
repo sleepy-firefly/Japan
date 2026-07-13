@@ -1,4 +1,4 @@
-﻿**Obon Festival**
+**Obon Festival**
 
 Obon is a traditional Japanese festival held in mid-July in some regions and in mid-August in others. It is a time when families honor the spirits of their ancestors and gather with relatives in their hometowns.
 
@@ -13,4 +13,3 @@ Another symbolic part of Obon is guiding ancestral spirits with lanterns and com
 <img src="../../images/obon_festival_3.jpg" alt="Obon Festival in Japan" style="width: 80%; height: auto;" />
 
 <img src="../../images/obon_festival_4.jpg" alt="Obon Festival in Japan" style="width: 80%; height: auto;" />
-

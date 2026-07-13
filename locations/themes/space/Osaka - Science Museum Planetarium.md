@@ -1,4 +1,10 @@
-﻿**Osaka - Science Museum Planetarium**
+**Osaka - Science Museum Planetarium**
+
+<img src="../../images/Osaka_-_Science_Museum_Planetarium_1.jpg" alt="Osaka_-_Science_Museum_Planetarium 1" style="width: 80%; height: auto;" />
+
+<img src="../../images/Osaka_-_Science_Museum_Planetarium_2.jpg" alt="Osaka_-_Science_Museum_Planetarium 2" style="width: 80%; height: auto;" />
+
+<img src="../../images/Osaka_-_Science_Museum_Planetarium_3.jpg" alt="Osaka_-_Science_Museum_Planetarium 3" style="width: 80%; height: auto;" />
 
 Osaka Science Museum provides a practical Kansai astronomy stop with planetarium programs and science exhibits near central Osaka.
 
@@ -36,5 +42,5 @@ Osaka Science Museum provides a practical Kansai astronomy stop with planetarium
 
 - [Nagoya - City Science Museum Planetarium](Nagoya%20-%20City%20Science%20Museum%20Planetarium.md)
 - [Kyoto - Kyoto International Manga Museum](../otaku/Kyoto%20-%20Kyoto%20International%20Manga%20Museum.md)
-<img src="../../../../images/osaka_science_museum_planetarium_1.jpg" alt="Osaka - Science Museum Planetarium" style="width: 80%; height: auto;" />
 
+<img src="../../../../images/osaka_science_museum_planetarium_1.jpg" alt="Osaka - Science Museum Planetarium" style="width: 80%; height: auto;" />

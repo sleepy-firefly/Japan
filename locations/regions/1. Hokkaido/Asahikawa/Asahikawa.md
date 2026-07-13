@@ -1,4 +1,10 @@
-﻿**Asahikawa**
+**Asahikawa**
+
+<img src="../../../images/Asahikawa_1.jpg" alt="Asahikawa location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Asahikawa_2.jpg" alt="Asahikawa location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Asahikawa_3.jpg" alt="Asahikawa location 3" style="width: 80%; height: auto;" />
 
 Asahikawa is a practical Hokkaido base for winter festivals, city food culture, and trips to Biei/Furano and Daisetsuzan.
 
@@ -18,5 +24,5 @@ Asahikawa is a practical Hokkaido base for winter festivals, city food culture, 
 
 - February for the winter festivals.
 - July-October for nature day trips.
-<img src="../../../../../images/asahikawa_1.jpg" alt="Asahikawa" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/asahikawa_1.jpg" alt="Asahikawa" style="width: 80%; height: auto;" />

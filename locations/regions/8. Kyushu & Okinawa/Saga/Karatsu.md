@@ -1,4 +1,10 @@
-﻿**Karatsu**
+**Karatsu**
+
+<img src="../../../images/Karatsu_1.jpg" alt="Karatsu location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Karatsu_2.jpg" alt="Karatsu location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Karatsu_3.jpg" alt="Karatsu location 3" style="width: 80%; height: auto;" />
 
 Karatsu is a coastal castle town with pottery culture and a traditional festival history.
 
@@ -16,5 +22,5 @@ Karatsu is a coastal castle town with pottery culture and a traditional festival
 &emsp;&emsp;**Best season**
 
 - Spring and autumn for mixed city/coast walking.
-<img src="../../../../../images/karatsu_1.jpg" alt="Karatsu" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/karatsu_1.jpg" alt="Karatsu" style="width: 80%; height: auto;" />

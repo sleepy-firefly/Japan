@@ -1,4 +1,4 @@
-﻿**Fukui Prefectural Dinosaur Museum (Katsuyama, Fukui)**
+**Fukui Prefectural Dinosaur Museum (Katsuyama, Fukui)**
 
 Fukui Prefectural Dinosaur Museum is one of Japan's most famous science museums and a signature destination in Fukui.
 
@@ -10,6 +10,12 @@ It is especially good for travelers interested in natural history and family-fri
 
 - Year-round; indoor destination with easy weather flexibility.
 
+<img src="../images/fukui_dinosaur_museum_3.jpg" alt="Dinosaur fossil exhibits at Fukui museum" style="width: 80%; height: auto;" />
+
 &emsp;&emsp;**Practical note**
 
 - Best done as a dedicated day trip from Fukui City.
+
+<img src="../images/fukui_dinosaur_museum_exhibits.jpg" alt="Paleontology dig site replica at Fukui museum" style="width: 80%; height: auto;" />
+
+<img src="../images/fukui_dinosaur_museum_2.jpg" alt="Fukui Prefectural Dinosaur Museum exhibits" style="width: 80%; height: auto;" />

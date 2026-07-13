@@ -1,4 +1,10 @@
-﻿**Chichibu**
+**Chichibu**
+
+<img src="../../../images/Chichibu_1.jpg" alt="Chichibu location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Chichibu_2.jpg" alt="Chichibu location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Chichibu_3.jpg" alt="Chichibu location 3" style="width: 80%; height: auto;" />
 
 Chichibu offers mountain scenery, shrines, seasonal flowers, and a more rural side of the Kanto region.
 
@@ -23,5 +29,5 @@ Chichibu offers mountain scenery, shrines, seasonal flowers, and a more rural si
 
 - April-May for flower season.
 - November for mountain autumn colors.
-<img src="../../../../../images/chichibu_1.jpg" alt="Chichibu" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/chichibu_1.jpg" alt="Chichibu" style="width: 80%; height: auto;" />

@@ -1,4 +1,4 @@
-﻿**Relaxed Budget Plan (Per Person, 3 Weeks, First Trip to Japan, Not Luxury)**
+**Relaxed Budget Plan (Per Person, 3 Weeks, First Trip to Japan, Not Luxury)**
 
 This is a relaxed-comfort per-person plan for a 21-day Japan trip.
 Assumption: both travelers pay separately with no shared costs, and spending style is similar.
@@ -123,7 +123,6 @@ Estimated full cost per person (Japan trip + flight):
 Estimated total for both travelers together (one from each city):
 
 - **\$9,800 - \$16,867** (¥1,470,000 - ¥2,530,000)
-
 
 
 

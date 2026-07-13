@@ -1,4 +1,10 @@
-﻿**Tsukuba**
+**Tsukuba**
+
+<img src="../../../images/Tsukuba_1.jpg" alt="Tsukuba location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Tsukuba_2.jpg" alt="Tsukuba location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Tsukuba_3.jpg" alt="Tsukuba location 3" style="width: 80%; height: auto;" />
 
 Tsukuba combines science-city attractions with mountain hiking at Mt. Tsukuba.
 
@@ -23,5 +29,5 @@ Tsukuba combines science-city attractions with mountain hiking at Mt. Tsukuba.
 &emsp;&emsp;**Best season**
 
 - March-May and October-November for mountain hiking conditions.
-<img src="../../../../../images/tsukuba_1.jpg" alt="Tsukuba" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/tsukuba_1.jpg" alt="Tsukuba" style="width: 80%; height: auto;" />

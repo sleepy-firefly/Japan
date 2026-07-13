@@ -1,4 +1,4 @@
-﻿**Tokyo - Odaiba Gundam Base**
+**Tokyo - Odaiba Gundam Base**
 
 <img src="../../../images/tokyo_odaiba_gundam_base_1.jpg" alt="Tokyo - Odaiba Gundam Base" style="width: 80%; height: auto;" />
 
@@ -42,4 +42,3 @@ Odaiba is one of Tokyo's strongest mecha-focused stops, centered on Gundam displ
 - [Tokyo - Akihabara](Tokyo%20-%20Akihabara.md)
 - [Tokyo - Ikebukuro](Tokyo%20-%20Ikebukuro.md)
 - [Tokyo Game Show](../../../events/otaku/Tokyo%20Game%20Show.md)
-

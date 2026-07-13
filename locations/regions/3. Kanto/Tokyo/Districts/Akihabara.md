@@ -1,4 +1,4 @@
-﻿**Akihabara (Tokyo District)**
+**Akihabara (Tokyo District)**
 
 Akihabara is Tokyo's top area for anime, manga, games, electronics, and themed cafes.
 
@@ -33,4 +33,3 @@ Akihabara is Tokyo's top area for anime, manga, games, electronics, and themed c
 - Year-round destination.
 - Best comfort months: October-November and March-April.
 - Good rainy-day option in June because many attractions are indoors.
-

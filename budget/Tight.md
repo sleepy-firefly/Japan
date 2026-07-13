@@ -1,4 +1,4 @@
-﻿**Tight Budget Plan (Per Person, 3 Weeks, First Trip to Japan)**
+**Tight Budget Plan (Per Person, 3 Weeks, First Trip to Japan)**
 
 This is a tight but realistic per-person plan for a 21-day Japan trip.
 Assumption: both travelers pay separately with no shared costs, and spending style is similar.
@@ -156,7 +156,6 @@ Estimated full cost per person (Japan trip + flight):
 Estimated total for both travelers together (one from each city):
 
 - **\$5,600 - \$8,967** (¥840,000 - ¥1,345,000)
-
 
 
 

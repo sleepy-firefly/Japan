@@ -1,4 +1,10 @@
-﻿**Inuyama**
+**Inuyama**
+
+<img src="../../../images/Inuyama_1.jpg" alt="Inuyama location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Inuyama_2.jpg" alt="Inuyama location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Inuyama_3.jpg" alt="Inuyama location 3" style="width: 80%; height: auto;" />
 
 Inuyama is known for its original castle keep and compact historic townscape.
 
@@ -17,5 +23,5 @@ Inuyama is known for its original castle keep and compact historic townscape.
 &emsp;&emsp;**Best season**
 
 - Spring and autumn for castle views and walking weather.
-<img src="../../../../../images/inuyama_1.jpg" alt="Inuyama" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/inuyama_1.jpg" alt="Inuyama" style="width: 80%; height: auto;" />

@@ -1,4 +1,10 @@
-﻿**Takayama**
+**Takayama**
+
+<img src="../../../images/Takayama_1.jpg" alt="Takayama location 1" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Takayama_2.jpg" alt="Takayama location 2" style="width: 80%; height: auto;" />
+
+<img src="../../../images/Takayama_3.jpg" alt="Takayama location 3" style="width: 80%; height: auto;" />
 
 Takayama is a preserved mountain town with Edo-style streets, markets, and regional food.
 
@@ -17,5 +23,5 @@ Takayama is a preserved mountain town with Edo-style streets, markets, and regio
 
 - Spring and autumn for festivals and weather.
 - Winter for snow-town atmosphere.
-<img src="../../../../../images/takayama_1.jpg" alt="Takayama" style="width: 80%; height: auto;" />
 
+<img src="../../../../../images/takayama_1.jpg" alt="Takayama" style="width: 80%; height: auto;" />

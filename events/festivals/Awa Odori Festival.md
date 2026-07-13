@@ -8,11 +8,15 @@ The festival atmosphere is highly participatory: some sections are performance-f
 
 <img src="../../images/obon_festival_2.jpg" alt="Evening matsuri dance mood in Japan" style="width: 80%; height: auto;" />
 
+<img src="../../images/awa_odori_dance_group.jpg" alt="Awa Odori dancers in traditional costumes" style="width: 80%; height: auto;" />
+
 &emsp;&emsp;**Practical info**
 
 - Typical period: August 12-15.
 - Main area: central Tokushima near station-side festival routes.
 - Best strategy: book accommodation early and reach viewing areas before evening peak.
+
+<img src="../../images/awa_odori_night_street.jpg" alt="Awa Odori festival street performances" style="width: 80%; height: auto;" />
 
 &emsp;&emsp;**Related location notes**
 
