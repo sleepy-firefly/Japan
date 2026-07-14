@@ -81,4 +81,35 @@ Belarusian citizens are **not visa-exempt** and must apply for a Japanese touris
 
 ---
 
+&emsp;&emsp;**3. Belarus citizen residing in Poland on a work permit**
+
+A Belarusian citizen legally residing in Poland does **not** need to travel to Belarus to apply. The Japanese visa can be applied for at the **Embassy of Japan in Warsaw**, which accepts applications from third-country nationals with valid legal residence in Poland.
+
+**Embassy of Japan in Poland:**
+
+- Address: ul. Szwoleżerów 8, 00-464 Warsaw, Poland
+- Phone: +48 22 696 50 00
+- Website: https://www.pl.emb-japan.go.jp/
+- Working hours: confirm current hours on the official website before visiting
+
+**Additional documents required (on top of the standard Belarus list above):**
+
+- Valid Polish residence card (Karta Pobytu) or equivalent document confirming legal stay in Poland
+- Work permit or confirmation of employment in Poland (if not already embedded in the residence card)
+- Recent payslips or employer confirmation letter with salary information (typically last 3 months)
+- Polish bank account statement for the last 3 months
+
+**Key points for this situation:**
+
+- The Japanese Embassy in Warsaw generally requires that your residence permit is valid for at least the duration of the intended Japan trip, and ideally beyond the return date.
+- If your residence card is close to expiry or a renewal is pending, include a document confirming the renewal application.
+- Processing time is the same as standard: 5 to 7 business days; apply from Poland without needing to return to Belarus.
+- The visa fee and document format requirements are the same as described in section 2 above.
+
+**Practical tip:**
+
+- Confirm with the Warsaw embassy directly (by email or phone) that your specific residence document type is accepted before submitting — rules can vary by permit category.
+
+---
+
 **Note:** Visa rules and fees can change. Always verify current requirements directly with the embassy or MOFA website before planning travel.
