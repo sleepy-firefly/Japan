@@ -14,6 +14,7 @@ Hiroshima combines important modern history with waterfront parks, food culture,
 - Atomic Bomb Dome area
 - Hiroshima Castle and Shukkeien Garden
 - Okonomiyaki dinner in downtown area
+- Optional day trip: [Okunoshima (Bunny Island)](Okunoshima%20(Bunny%20Island).md)
 
 &emsp;&emsp;**Logistics**
 
@@ -29,5 +30,3 @@ Hiroshima combines important modern history with waterfront parks, food culture,
 &emsp;&emsp;**Best season**
 
 - March-May and October-November for comfortable city walking.
-
-
